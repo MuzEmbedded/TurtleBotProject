@@ -1,0 +1,8 @@
+prefix=/home/dinh_nam_luu/catkin_ws/build/devel
+
+Name: assignment
+Description: Description of assignment
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
