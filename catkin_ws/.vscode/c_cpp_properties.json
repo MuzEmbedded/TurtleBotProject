@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/dinh_nam_luu/catkin_ws/src/beginner_tutorials/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/src/turtlebot3_simulations/turtlebot3_gazebo/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
