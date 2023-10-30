@@ -1,9 +1,9 @@
 # TurtleBotProject
 
-#Contribution
+# Contribution
 
-#Dinh Nam Luu 40%
+Dinh Nam Luu 40%
 
-#Joshua Muzik 30%
+Joshua Muzik 30%
 
-#Dan PHam 30%
+Dan PHam 30%
